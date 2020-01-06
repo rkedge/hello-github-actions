@@ -2,3 +2,4 @@ This should close an issue.
 
 "Closes issue #3" - did not work
 "Closes #3"
+"Resolves issue #4, and #5"
